@@ -6,7 +6,8 @@ MATLAB and C++ implementations of sideslip angle estimators
 
 ## Factor graph sideslip angle estimator
 
-Cite as:
+Papers: 
+ - "A Factor Graph-based approach to vehicle sideslip angle estimation", [arXiv](https://arxiv.org/abs/2107.09815). Cite as:
 
 ```bibtex
 @article{leanza2021sideslipfg,
