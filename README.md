@@ -10,14 +10,16 @@ Papers:
  - "A Factor Graph-based approach to vehicle sideslip angle estimation", [arXiv](https://arxiv.org/abs/2107.09815). Cite as:
 
 ```bibtex
-@article{leanza2021sideslipfg,
-  author    = {Antonio Leanza and
-               Giulio Reina and
-               Jos{\'{e}}{-}Luis Blanco{-}Claraco},
-  title     = {A Factor Graph-based approach to vehicle sideslip angle estimation},
-  year      = {2021},
-  url       = {https://arxiv.org/abs/2107.09815},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-2107-09815.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
+@Article{leanza2021sideslipfg,
+AUTHOR = {Leanza, Antonio and Reina, Giulio and Blanco-Claraco, José-Luis},
+TITLE = {A Factor-Graph-Based Approach to Vehicle Sideslip Angle Estimation},
+JOURNAL = {Sensors},
+VOLUME = {21},
+YEAR = {2021},
+NUMBER = {16},
+ARTICLE-NUMBER = {5409},
+URL = {https://www.mdpi.com/1424-8220/21/16/5409},
+ISSN = {1424-8220},
+DOI = {10.3390/s21165409}
 }
 ```
